@@ -1,5 +1,11 @@
 # PVCNN: Point-Voxel CNN for Efficient 3D Deep Learning
 
+## FORK NOTES
+`CL.exe` must be in your `PATH`; you may run the net from `x64 Native Tools Command Prompt for VS 2019` so that the custom ops may be compiled at runtime.
+
+Other relevant issues:
+* https://github.com/rusty1s/pytorch_geometric/issues/366
+
 [NVIDIA Jetson Community Project Spotlight](https://news.developer.nvidia.com/point-voxel-cnn-3d/?ncid=so-twit-99540#cid=em02_so-twit_en-us)
 
 ```
